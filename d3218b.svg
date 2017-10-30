@@ -45,18 +45,18 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="-67.548965"
-     inkscape:cy="141.85711"
+     inkscape:zoom="1.505"
+     inkscape:cx="190"
+     inkscape:cy="257"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="10.5cm"
      height="14.85cm"
      units="cm"
-     inkscape:window-width="1501"
-     inkscape:window-height="1006"
-     inkscape:window-x="2481"
-     inkscape:window-y="532"
+     inkscape:window-width="2077"
+     inkscape:window-height="1069"
+     inkscape:window-x="2188"
+     inkscape:window-y="342"
      showgrid="false"
      inkscape:window-maximized="0"
      showguides="true"
@@ -132,85 +132,77 @@
        height="5.9311867"
        x="325.97614"
        y="480.026" />
-    <g
-       id="g3185"
-       transform="translate(0,1.0425407)">
-      <text
-         sodipodi:linespacing="125%"
-         id="text2160"
-         y="144.14471"
-         x="34.88044"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Apple Chancery;-inkscape-font-specification:Apple Chancery Medium"
-         xml:space="preserve"><tspan
-           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Apple Chancery;-inkscape-font-specification:Apple Chancery Medium"
-           y="144.14471"
-           x="34.88044"
-           id="tspan2162"
-           sodipodi:role="line">Jonathan Alvarsson</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text2184"
-         y="144.14471"
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;line-height:125%;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="33.062866"
+       y="133.18726"
+       id="text2160"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2162"
+         x="33.062866"
+         y="133.18726"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;line-height:125%;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery Medium';text-align:start;writing-mode:lr-tb;text-anchor:start">Jonathan Alvarsson</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+       x="343.30264"
+       y="133.18726"
+       id="text2184"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-align:end;writing-mode:lr-tb;text-anchor:end"
+         sodipodi:role="line"
+         id="tspan2186"
          x="343.30264"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
-         xml:space="preserve"><tspan
-           y="144.14471"
-           x="343.30264"
-           id="tspan2186"
-           sodipodi:role="line"
-           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Andale Mono;-inkscape-font-specification:Andale Mono">jonalv</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
+         y="133.18726">jonalv</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3097"
+       y="161.70453"
+       x="343.44327"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="161.70453"
          x="343.44327"
-         y="172.66199"
-         id="text3097"
-         sodipodi:linespacing="125%"><tspan
-           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
-           sodipodi:role="line"
-           id="tspan3099"
-           x="343.44327"
-           y="172.66199">jonathan.alvarsson@farmbio.uu.se</tspan></text>
-    </g>
-    <g
-       id="g3193"
-       transform="translate(0,14.288071)">
-      <text
-         sodipodi:linespacing="125%"
-         id="text2164"
-         y="237.62457"
-         x="35.056221"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Apple Chancery;-inkscape-font-specification:Apple Chancery Medium"
-         xml:space="preserve"><tspan
-           y="237.62457"
-           x="35.056221"
-           id="tspan2166"
-           sodipodi:role="line">Arvid Berg</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text2188"
-         y="237.62457"
+         id="tspan3099"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-align:end;writing-mode:lr-tb;text-anchor:end">jonathan.alvarsson@farmbio.uu.se</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;line-height:125%;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="33.062866"
+       y="225.3342"
+       id="text2164"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2166"
+         x="33.062866"
+         y="225.3342">Arvid Berg</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+       x="343.39053"
+       y="225.3342"
+       id="text2188"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-align:end;writing-mode:lr-tb;text-anchor:end"
+         sodipodi:role="line"
+         id="tspan2190"
          x="343.39053"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
-         xml:space="preserve"><tspan
-           y="237.62457"
-           x="343.39053"
-           id="tspan2190"
-           sodipodi:role="line"
-           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Andale Mono;-inkscape-font-specification:Andale Mono">Gpox</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text3101"
-         y="267.55472"
+         y="225.3342">Gpox</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+       x="343.44327"
+       y="255.26434"
+       id="text3101"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-align:end;writing-mode:lr-tb;text-anchor:end"
+         sodipodi:role="line"
+         id="tspan3103"
          x="343.44327"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
-         xml:space="preserve"><tspan
-           y="267.55472"
-           x="343.44327"
-           id="tspan3103"
-           sodipodi:role="line"
-           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Andale Mono;-inkscape-font-specification:Andale Mono">arvid.berg@farmbio.uu.se</tspan></text>
-    </g>
+         y="255.26434">arvid.berg@farmbio.uu.se</tspan></text>
     <image
        y="7.7738953"
        x="18.982418"
@@ -223,30 +215,53 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:37.47776413px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="33.371948"
-       y="447.20471"
+       y="449.20471"
        id="text4276"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="33.371948"
-         y="447.20471"
+         y="449.20471"
          id="tspan4280"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.39652061px;font-family:Helvetica;-inkscape-font-specification:Helvetica">Institutionen för farmaceutisk biovetenskap</tspan><tspan
          sodipodi:role="line"
          x="33.371948"
-         y="467.70035"
+         y="469.70035"
          id="tspan4284"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.39652061px;font-family:Helvetica;-inkscape-font-specification:Helvetica">Farmaceutisk bioinformatik</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text5278"
-       y="380.28821"
-       x="61.31633"
+       y="405.62375"
+       x="33.062866"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.37158203px;line-height:125%;font-family:'Big Caslon';-inkscape-font-specification:'Big Caslon Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="380.28821"
-         x="61.31633"
+         y="405.62375"
+         x="33.062866"
          id="tspan5280"
          sodipodi:role="line"
-         style="font-size:20px">Telefon: 018 - 471 5047</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;font-family:'Big Caslon';-inkscape-font-specification:'Big Caslon Medium'">Telefon: o18 - 471 5o47</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4166"
+       y="318.89401"
+       x="33.062866"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;line-height:125%;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="318.89401"
+         x="33.062866"
+         id="tspan4168"
+         sodipodi:role="line">Alexander Kensert</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4174"
+       y="348.82416"
+       x="341.44992"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="348.82416"
+         x="341.44992"
+         id="tspan4176"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-align:end;writing-mode:lr-tb;text-anchor:end">alexander.kensert@gmail.com</tspan></text>
   </g>
 </svg>
