@@ -49,7 +49,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.624053"
-     inkscape:cx="-75.046925"
+     inkscape:cx="-77.360307"
      inkscape:cy="261.5044"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -78,7 +78,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -147,7 +147,7 @@
            y="144.14471"
            x="34.88044"
            id="tspan2162"
-           sodipodi:role="line">Phil Harrison</tspan></text>
+           sodipodi:role="line">Philip Harrison</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text2184"
@@ -171,7 +171,7 @@
            sodipodi:role="line"
            id="tspan3099"
            x="343.44327"
-           y="172.66199">phil.harrison@farmbio.uu.se</tspan></text>
+           y="172.66199">philip.harrison@farmbio.uu.se</tspan></text>
     </g>
     <image
        y="247.20319"
