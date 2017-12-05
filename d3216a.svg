@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="d3216c.svg">
+   sodipodi:docname="d3216a.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -49,7 +49,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.624053"
-     inkscape:cx="-75.046925"
+     inkscape:cx="-32.525082"
      inkscape:cy="261.5044"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -58,9 +58,9 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="2560"
      inkscape:window-height="1391"
-     inkscape:window-x="1919"
-     inkscape:window-y="321"
-     inkscape:window-maximized="0"
+     inkscape:window-x="1920"
+     inkscape:window-y="319"
+     inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -111,7 +111,7 @@
          sodipodi:role="line"
          id="tspan3232"
          x="418.93704"
-         y="284.7175">D3:216c</tspan></text>
+         y="284.7175">D3:216a</tspan></text>
     <rect
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3236"
@@ -147,7 +147,7 @@
            y="144.14471"
            x="34.88044"
            id="tspan2162"
-           sodipodi:role="line">Phil Harrison</tspan></text>
+           sodipodi:role="line">Ola Spjuth</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text2184"
@@ -159,7 +159,7 @@
            x="343.30264"
            id="tspan2186"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-align:end;writing-mode:lr-tb;text-anchor:end">phil</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-align:end;writing-mode:lr-tb;text-anchor:end">olas</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
@@ -171,7 +171,7 @@
            sodipodi:role="line"
            id="tspan3099"
            x="343.44327"
-           y="172.66199">phil.harrison@farmbio.uu.se</tspan></text>
+           y="172.66199">ola.spjuth@farmbio.uu.se</tspan></text>
     </g>
     <image
        y="247.20319"
@@ -209,65 +209,13 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.37158203px;line-height:125%;font-family:'Big Caslon';-inkscape-font-specification:'Big Caslon Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="252.98605"
-       y="442.17584"
+       y="444.17584"
        id="text4737"
        sodipodi:linespacing="125%"><tspan
          style="font-size:17.5px"
          sodipodi:role="line"
          id="tspan4739"
          x="252.98605"
-         y="442.17584">Mobil: o73 - 574 5154</tspan></text>
-    <g
-       transform="translate(178.38922,372.24093)"
-       id="g4160">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;line-height:125%;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-         x="34.88044"
-         y="144.14471"
-         id="text4162"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan4164"
-           x="34.88044"
-           y="144.14471"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;line-height:125%;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery Medium';text-align:start;writing-mode:lr-tb;text-anchor:start">Niharika Gauraha</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
-         x="343.30264"
-         y="144.14471"
-         id="text4166"
-         sodipodi:linespacing="125%"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-align:end;writing-mode:lr-tb;text-anchor:end"
-           sodipodi:role="line"
-           id="tspan4168"
-           x="343.30264"
-           y="144.14471">niharika</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text4170"
-         y="172.66199"
-         x="343.44327"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="172.66199"
-           x="343.44327"
-           id="tspan4172"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-align:end;writing-mode:lr-tb;text-anchor:end">niharika.gauraha@farmbio.uu.se</tspan></text>
-    </g>
-    <text
-       sodipodi:linespacing="125%"
-       id="text4174"
-       y="573.94495"
-       x="251.75456"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.37158203px;line-height:125%;font-family:'Big Caslon';-inkscape-font-specification:'Big Caslon Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="573.94495"
-         x="251.75456"
-         id="tspan4176"
-         sodipodi:role="line"
-         style="font-size:17.5px">Mobil: o72 - 365 6597</tspan></text>
+         y="444.17584">Mobil: o7o - 425 o628</tspan></text>
   </g>
 </svg>
